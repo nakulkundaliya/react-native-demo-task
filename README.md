@@ -9,3 +9,8 @@
 
 4. Run Project in ios `$ cd ios pod install ` then
   `$ react-native run-ios`
+  
+  
+ ## Screenshots
+ 
+ ![Screenshot_2021-10-12-16-16-23-09_07f10d56c86c9526525052af280b7142](https://user-images.githubusercontent.com/15937642/136946782-25bddbf7-18d9-4e98-b8ce-ef024afbc8fb.png)
